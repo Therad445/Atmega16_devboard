@@ -1,12 +1,12 @@
-*.SchDoc binary
-*.PcbDoc binary
-*.Harness binary
-*.PCBDwf binary
-*.Outhob binary
-*.cam binary
-*.DXPPrf binary
-*.DsnWrk binary
-*.PcbLib binary
-*.SchLib binary
+*.SchDoc linguist-language=Altium
+*.PcbDoc linguist-language=Altium
+*.Harness linguist-language=Altium
+*.PCBDwf linguist-language=Altium
+*.Outhob linguist-language=Altium
+*.cam linguist-language=Altium
+*.DXPPrf linguist-language=Altium
+*.DsnWrk linguist-language=Altium
+*.PcbLib linguist-language=Altium
+*.SchLib linguist-language=Altium
 *.BomDoc text eol=crlf
 *.OutJob text eol=crlf
