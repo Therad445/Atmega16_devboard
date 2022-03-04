@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\Univesity\Altium Project\ATmega\PCB1.PcbDoc
+DRC Rules Export File for PCB: D:\Univesity\Altium Project\Atmega16_devboard\Altium\PCB1.PcbDoc
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
